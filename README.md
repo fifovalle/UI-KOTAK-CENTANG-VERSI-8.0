@@ -1,4 +1,4 @@
-**Selamat Datang di "UI Kotak Centang Versi 7.0" User Interface! 🚀**
+**Selamat Datang di "UI Kotak Centang Versi 8.0" User Interface! 🚀**
 
 Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat lunak. Dari aplikasi web hingga proyek mobile, temukan ragam proyek yang mencerminkan dedikasi saya dalam teknologi.
 
@@ -9,7 +9,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 ### 🚀 Fitur Utama
 
-- **User Interface:** Kotak Centang Versi 7.0
+- **User Interface:** Kotak Centang Versi 8.0
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -20,7 +20,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa tampilan halaman website :
 
-![Screenshot 2024-08-07 073455](https://github.com/user-attachments/assets/4a9964da-c083-4b87-a1e0-0886a6d90b2b)
+![Screenshot 2024-08-07 073922](https://github.com/user-attachments/assets/56a2a74d-70e1-4d1e-ba90-a4bafec3034d)
 
 ## 📬 Kontak
 
@@ -35,7 +35,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/UI-KOTAK-CENTANG-VERSI-7.0.git
+   git clone https://github.com/fifovalle/UI-KOTAK-CENTANG-VERSI-8.0.git
 
    ```
 
